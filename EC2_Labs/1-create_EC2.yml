@@ -19,4 +19,4 @@
         network:
           assign_public_ip: true
         tags:
-          Name: Dolfinedd
+          Name: Dolfined
