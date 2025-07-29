@@ -54,6 +54,3 @@ ansible-playbook <filename>.yml
 - Update variables in files according to your needs
 - Keep backups of sensitive configuration files
 
-## License
-
-Copyright © 2025
